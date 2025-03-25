@@ -20,7 +20,7 @@ conda activate sayhihello
 2. Now use pip from the conda virtual environment to install `build` and `twine`.
 
 ```bash
-which pip # this should show a location from inside the activate conda environment
+which pip # this should show a location from inside the activated conda environment
 
 pip install --upgrade build
 pip install --upgrade twine
